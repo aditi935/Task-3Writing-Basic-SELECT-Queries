@@ -70,7 +70,7 @@ It allows us to view employee details like name, salary, department, etc.
 ```sql
 SELECT emp_name, salary FROM employee;
 ```
-![Alt Text](images/empname.png)
+![Alt Text](images/ename.png)
 
 👉 This query only shows employee id and their name and city , ignoring other columns.
 ```sql
